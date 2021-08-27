@@ -1,7 +1,7 @@
 ## Hello World, I'm Núbia!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 :books: I'm learning C#
 
-💻 Lover of Technology
+💻 I love Technology
 <div>
   <a href="https://github.com/nubiapeixer">   
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nubiapeixer&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>   
