@@ -1,7 +1,5 @@
 ## Hello World, I'm Núbia!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 <div>
-📚 I'm learning C# <div>
-💻 I love Technology 
   
 ###
   
